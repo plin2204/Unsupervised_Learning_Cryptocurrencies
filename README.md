@@ -11,4 +11,4 @@ Analyze Cryptocurrency data by using Unsupervised Machine Learning techniques
 How Cryptocurrencies could be grouped toward creating a Classification for developing new investment product.
 
 ---
-The code is in `CryptoCompare_Challenge.ipynb`
+The code is in [`CryptoCompare_Challenge.ipynb`](https://github.com/plin2204/Unsupervised_Learning_Cryptocurrencies/blob/master/CryptoCompare_Challenge.ipynb).
